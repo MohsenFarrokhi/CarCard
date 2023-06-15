@@ -5,7 +5,7 @@ function App() {
     return (
         <div>
             <CardComponent
-                image="../public/Car.jpg"
+                image="../Car.jpg"
                 title="Lizard"
                 description="Chevrolet is an iconic American car brand known for its reliable,dependable,and affroadable vehicles. Founded in 1911,Chevy has become one of the most recognizable car brands in the world."
                 share='SHARE'
