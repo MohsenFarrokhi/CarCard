@@ -1,9 +1,17 @@
+import CardComponent from "./Components/CardComponent.jsx";
+import './App.css'
 function App() {
     return (
-    <>
-
-    </>
-  )
+        <div>
+            <CardComponent
+                img="CarCard-project/CarCard/public/File_000.png"
+                title="Lizard"
+                description="Chevrolet is an iconic American car brand known for its reliable,dependable,and affroadable vehicles. Founded in 1911,Chevy has become one of the most recognizable car brands in the world."
+                share='SHARE'
+                learn="LEARN MORE"
+            />
+        </div>
+    )
 }
 
 export default App
