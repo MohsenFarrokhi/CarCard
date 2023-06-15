@@ -28,4 +28,4 @@ const CardComponent = ({image, title, description, share, learn}) => {
     )
 }
 
-export default CardComponent
+export default CardComponent;
