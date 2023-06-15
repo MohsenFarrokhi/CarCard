@@ -11,7 +11,7 @@ const CardComponent = ({image, title, description, share, learn}) => {
                 <div>
                     <ImageComponent image={image}/>
                 </div>
-                <div>
+                <div className="bottom-section">
                     <div>
                         <TitleComponent title={title}/>
                     </div>

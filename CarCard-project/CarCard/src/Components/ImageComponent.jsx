@@ -3,7 +3,7 @@ import '../App.css'
 const ImageComponent = ({image}) => {
   return (
       <div>
-          <img className='car-img' src={image} alt="RedCar"/>
+          <img className='car-image' src={image} alt="RedCar"/>
       </div>
   )
 }
