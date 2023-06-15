@@ -1,3 +1,4 @@
+import '../App.css'
 const TitleComponent = ({title}) => {
     return (
         <div>
