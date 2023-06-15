@@ -39,3 +39,14 @@
     border-top-right-radius: 3px;
     border-top-left-radius: 3px;
 }
+
+.description-style {
+    display: flex;
+    justify-content: start;
+    align-items: start;
+}
+
+.description {
+    font-size: 1.35rem;
+    color: gray;
+}
