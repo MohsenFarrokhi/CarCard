@@ -2,7 +2,7 @@ import '../App.css'
 
 const TitleComponent = ({title}) => {
     return (
-        <div className='title_style'>
+        <div className='title-style'>
             <h1 className={'title'}> {title} </h1>
         </div>
     )

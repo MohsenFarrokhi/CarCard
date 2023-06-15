@@ -7,7 +7,7 @@
     text-decoration: none;
 }
 
-.title_style {
+.title-style {
     display: flex;
     justify-content: start;
     align-items: start;
@@ -19,7 +19,7 @@
     font-weight: normal;
 }
 
-.share_style {
+.share-style {
 
 }
 
