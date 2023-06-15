@@ -1,10 +1,9 @@
 import '../App.css'
+
 const TitleComponent = ({title}) => {
     return (
-        <div>
-            <h1 className={'title'}>
-                {title}
-            </h1>
+        <div className='title_style'>
+            <h1 className={'title'}> {title} </h1>
         </div>
     )
 }

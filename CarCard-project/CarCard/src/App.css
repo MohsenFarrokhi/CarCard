@@ -7,7 +7,22 @@
     text-decoration: none;
 }
 
+.title_style {
+    display: flex;
+    justify-content: start;
+    align-items: start;
+    padding: 10px 0;
+}
+
 .title {
     font-size: 2.3rem;
     font-weight: normal;
+}
+
+.share_style {
+
+}
+
+.share {
+    font-size: 1.3rem;
 }
