@@ -30,3 +30,12 @@
 .learn {
     font-size: 1.3rem;
 }
+
+.car-image {
+    display: flex;
+    top: 10px;
+    width: 320px;
+    height: 140px;
+    border-top-right-radius: 3px;
+    border-top-left-radius: 3px;
+}
